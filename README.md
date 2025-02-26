@@ -1,4 +1,4 @@
-# ug-semester-2
+# ug-semester-3
 
 **Welcome to my codebase!**
 
